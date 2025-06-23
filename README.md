@@ -39,14 +39,14 @@ The goal was to help a fictional pizza business understand:
 
 The Power BI dashboard includes:
 
-1. **Daily Order Trends** – Bar chart showing daily order fluctuations
-2. **Monthly Order Trends** – Line chart for long-term seasonality
-3. **Hourly Order Trends** – Line chart showing peak ordering times
-4. **% Sales by Pizza Category** – Pie chart for category-wise distribution
-5. **% Sales by Pizza Size** – Pie chart showing size preferences
-6. **Pizzas Sold by Category** – Funnel chart for sales volume comparison
-7. **Top 5 Best Sellers** – Bar chart by revenue, quantity, and orders
-8. **Bottom 5 Worst Sellers** – Bar chart to identify underperformers
+1. **Daily Order Trends** – Bar chart showing daily order fluctuations  
+2. **Monthly Order Trends** – Line chart for long-term seasonality  
+3. **Hourly Order Trends** – Line chart showing peak ordering times  
+4. **% Sales by Pizza Category** – Pie chart for category-wise distribution  
+5. **% Sales by Pizza Size** – Pie chart showing size preferences  
+6. **Pizzas Sold by Category** – Funnel chart for sales volume comparison  
+7. **Top 5 Best Sellers** – Bar chart by revenue, quantity, and orders  
+8. **Bottom 5 Worst Sellers** – Bar chart to identify underperformers  
 
 ---
 
@@ -61,11 +61,11 @@ The Power BI dashboard includes:
 
 ## 🧪 SQL Techniques Used
 
-- Data Import and Cleaning
-- Aggregations and Grouping
-- CTEs and Joins
-- KPI Calculations
-- Query Optimization
+- Data Import and Cleaning  
+- Aggregations and Grouping  
+- CTEs and Joins  
+- KPI Calculations  
+- Query Optimization  
 
 ---
 
@@ -91,5 +91,7 @@ This project showcases my ability to perform real-world business analysis using 
 - SQL Data Analysis  
 - Excel Automation and Reporting  
 
-📩 Contact me via [LinkedIn](#) or [Email](#) – Let’s build something insightful together!
+📩 Contact me at **kodhamalaashok@gmail.com**  
+🔗 Connect on [LinkedIn](https://linkedin.com/in/ashok-kumar-data-analyst)
+
 
